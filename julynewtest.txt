@@ -1,0 +1,12 @@
+Can
+	this
+		preserve
+weird	formatting?
+
+Who knows	?
+
+It definitely
+	bugs	out
+		when there's no linebreak at the end.
+Must be a windows thing
+	linux should automatically handle that.
