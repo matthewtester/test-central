@@ -1,0 +1,4 @@
+:q is quit
+:q! is quit without saving
+:wq or :x is write and quit
+:qa is quit all
