@@ -1,0 +1,10 @@
+On july 14th-- it is done.
+Server is working, kiiiind of doing a workaround for ssl
+authentication because no way am I getting a 3rd party approved
+cert right now. Other than that, it's complete, I should be able
+to push this from my laptop and find it on the ubuntu server.
+Ascii celebration!
+     
+      |
+o===={|:::::::::::::::::>
+      |
