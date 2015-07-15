@@ -1,5 +1,0 @@
-*Attach to https server
-*Test gitlab
-*get linux server, make it work
-*???
-*profit
